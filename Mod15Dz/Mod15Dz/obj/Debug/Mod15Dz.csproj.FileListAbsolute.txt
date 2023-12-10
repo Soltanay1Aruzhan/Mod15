@@ -1,0 +1,7 @@
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod15Dz\Mod15Dz\bin\Debug\Mod15Dz.exe.config
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod15Dz\Mod15Dz\bin\Debug\Mod15Dz.exe
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod15Dz\Mod15Dz\bin\Debug\Mod15Dz.pdb
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod15Dz\Mod15Dz\obj\Debug\Mod15Dz.csproj.AssemblyReference.cache
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod15Dz\Mod15Dz\obj\Debug\Mod15Dz.csproj.CoreCompileInputs.cache
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod15Dz\Mod15Dz\obj\Debug\Mod15Dz.exe
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod15Dz\Mod15Dz\obj\Debug\Mod15Dz.pdb
